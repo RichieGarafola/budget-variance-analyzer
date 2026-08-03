@@ -1,0 +1,325 @@
+month,department,category,budgeted,actual
+2025-01-01,Business Dev,Conferences,4721.29,5277.26
+2025-01-01,Business Dev,Marketing,9450.82,9728.37
+2025-01-01,Business Dev,Salaries,29613.92,26644.96
+2025-01-01,Business Dev,Travel,2930.58,2973.75
+2025-01-01,Finance,Audit & Compliance,4002.5,3862.97
+2025-01-01,Finance,Benefits,4490.71,4138.82
+2025-01-01,Finance,Salaries,16367.23,17275.16
+2025-01-01,Finance,Software Licenses,3793.95,3860.0
+2025-01-01,HR,Benefits,6415.24,6629.41
+2025-01-01,HR,Recruiting,3175.69,3434.26
+2025-01-01,HR,Salaries,22569.17,21910.89
+2025-01-01,HR,Training,2021.96,1917.58
+2025-01-01,IT,Cloud Infrastructure,17296.07,15406.87
+2025-01-01,IT,Consulting,8917.77,7880.21
+2025-01-01,IT,Equipment,9685.14,7952.91
+2025-01-01,IT,Salaries,50305.55,44623.18
+2025-01-01,IT,Software Licenses,10683.54,9093.85
+2025-01-01,Operations,Benefits,25186.08,24974.06
+2025-01-01,Operations,Equipment,15812.94,13766.56
+2025-01-01,Operations,Facilities,13391.17,11544.74
+2025-01-01,Operations,Salaries,84381.82,74453.34
+2025-01-01,Operations,Travel,9331.41,7673.82
+2025-01-01,R&D,Benefits,10985.92,11421.22
+2025-01-01,R&D,Contractors,9332.55,9098.05
+2025-01-01,R&D,Equipment,7359.92,7090.55
+2025-01-01,R&D,Salaries,36721.19,38661.29
+2025-01-01,R&D,Software Licenses,8849.21,9080.42
+2025-02-01,Business Dev,Conferences,5126.43,5462.82
+2025-02-01,Business Dev,Marketing,9608.43,9603.2
+2025-02-01,Business Dev,Salaries,27196.31,26461.3
+2025-02-01,Business Dev,Travel,2985.63,3112.81
+2025-02-01,Finance,Audit & Compliance,3956.08,3917.96
+2025-02-01,Finance,Benefits,4455.51,4221.36
+2025-02-01,Finance,Salaries,17312.5,18854.0
+2025-02-01,Finance,Software Licenses,3955.03,4210.23
+2025-02-01,HR,Benefits,6715.12,7066.66
+2025-02-01,HR,Recruiting,3425.59,3475.08
+2025-02-01,HR,Salaries,22255.05,21411.94
+2025-02-01,HR,Training,1942.99,1826.95
+2025-02-01,IT,Cloud Infrastructure,18275.97,16852.86
+2025-02-01,IT,Consulting,9594.9,8686.74
+2025-02-01,IT,Equipment,9668.99,8673.7
+2025-02-01,IT,Salaries,47336.73,39624.06
+2025-02-01,IT,Software Licenses,10386.14,8889.33
+2025-02-01,Operations,Benefits,25656.98,25566.77
+2025-02-01,Operations,Equipment,15198.2,13757.32
+2025-02-01,Operations,Facilities,13049.99,10365.31
+2025-02-01,Operations,Salaries,90350.94,81202.58
+2025-02-01,Operations,Travel,9060.49,7803.21
+2025-02-01,R&D,Benefits,10914.26,11463.94
+2025-02-01,R&D,Contractors,9813.88,8774.19
+2025-02-01,R&D,Equipment,7010.3,6843.66
+2025-02-01,R&D,Salaries,40286.5,39286.97
+2025-02-01,R&D,Software Licenses,8998.39,8997.31
+2025-03-01,Business Dev,Conferences,5408.73,5798.55
+2025-03-01,Business Dev,Marketing,9495.88,9748.44
+2025-03-01,Business Dev,Salaries,28906.81,26262.17
+2025-03-01,Business Dev,Travel,3079.39,3125.68
+2025-03-01,Finance,Audit & Compliance,3781.76,3676.57
+2025-03-01,Finance,Benefits,4566.93,4223.0
+2025-03-01,Finance,Salaries,18351.81,20301.71
+2025-03-01,Finance,Software Licenses,3780.83,4075.6
+2025-03-01,HR,Benefits,6346.95,6893.49
+2025-03-01,HR,Recruiting,3449.98,3690.82
+2025-03-01,HR,Salaries,24504.66,22512.96
+2025-03-01,HR,Training,2196.07,2040.88
+2025-03-01,IT,Cloud Infrastructure,19817.4,19360.23
+2025-03-01,IT,Consulting,9375.55,8474.18
+2025-03-01,IT,Equipment,10092.9,8996.17
+2025-03-01,IT,Salaries,51373.57,46265.56
+2025-03-01,IT,Software Licenses,10473.43,9341.62
+2025-03-01,Operations,Benefits,23004.41,23052.74
+2025-03-01,Operations,Equipment,15327.6,13777.53
+2025-03-01,Operations,Facilities,12589.26,10891.29
+2025-03-01,Operations,Salaries,83352.72,69755.28
+2025-03-01,Operations,Travel,8980.48,7322.57
+2025-03-01,R&D,Benefits,10006.47,10143.37
+2025-03-01,R&D,Contractors,10525.0,9450.85
+2025-03-01,R&D,Equipment,7269.06,7518.36
+2025-03-01,R&D,Salaries,39322.19,39438.06
+2025-03-01,R&D,Software Licenses,9102.51,8701.03
+2025-04-01,Business Dev,Conferences,5063.0,5198.87
+2025-04-01,Business Dev,Marketing,9199.48,9099.82
+2025-04-01,Business Dev,Salaries,28886.27,27562.14
+2025-04-01,Business Dev,Travel,3171.08,3181.36
+2025-04-01,Finance,Audit & Compliance,3695.94,3716.68
+2025-04-01,Finance,Benefits,4416.26,4321.77
+2025-04-01,Finance,Salaries,17406.35,18253.79
+2025-04-01,Finance,Software Licenses,3666.39,3813.57
+2025-04-01,HR,Benefits,6036.16,6502.11
+2025-04-01,HR,Recruiting,3379.73,3671.42
+2025-04-01,HR,Salaries,25023.12,23854.32
+2025-04-01,HR,Training,2014.13,1813.57
+2025-04-01,IT,Cloud Infrastructure,17326.58,16138.85
+2025-04-01,IT,Consulting,9256.87,8045.54
+2025-04-01,IT,Equipment,9232.67,8056.82
+2025-04-01,IT,Salaries,51539.1,43860.54
+2025-04-01,IT,Software Licenses,11394.05,9303.58
+2025-04-01,Operations,Benefits,23885.56,23708.98
+2025-04-01,Operations,Equipment,16226.81,14482.43
+2025-04-01,Operations,Facilities,13554.78,11638.39
+2025-04-01,Operations,Salaries,82811.18,69257.4
+2025-04-01,Operations,Travel,8914.43,7641.31
+2025-04-01,R&D,Benefits,10844.66,10501.25
+2025-04-01,R&D,Contractors,9691.47,9196.32
+2025-04-01,R&D,Equipment,6808.44,6976.56
+2025-04-01,R&D,Salaries,40131.3,42924.4
+2025-04-01,R&D,Software Licenses,8590.89,8142.26
+2025-05-01,Business Dev,Conferences,5296.96,5745.95
+2025-05-01,Business Dev,Marketing,8959.66,9530.87
+2025-05-01,Business Dev,Salaries,28387.25,28164.41
+2025-05-01,Business Dev,Travel,3051.38,3155.82
+2025-05-01,Finance,Audit & Compliance,3862.86,4011.16
+2025-05-01,Finance,Benefits,4442.0,4139.61
+2025-05-01,Finance,Salaries,17733.46,19198.36
+2025-05-01,Finance,Software Licenses,3746.17,3773.06
+2025-05-01,HR,Benefits,6476.14,6770.82
+2025-05-01,HR,Recruiting,3576.62,3744.41
+2025-05-01,HR,Salaries,23133.57,20895.45
+2025-05-01,HR,Training,2176.11,2041.32
+2025-05-01,IT,Cloud Infrastructure,17583.12,16850.12
+2025-05-01,IT,Consulting,9526.13,8533.32
+2025-05-01,IT,Equipment,9843.98,8682.7
+2025-05-01,IT,Salaries,52795.9,43992.09
+2025-05-01,IT,Software Licenses,11706.35,9776.71
+2025-05-01,Operations,Benefits,24181.81,23216.1
+2025-05-01,Operations,Equipment,15014.76,13543.47
+2025-05-01,Operations,Facilities,12159.44,10501.71
+2025-05-01,Operations,Salaries,91052.25,75285.1
+2025-05-01,Operations,Travel,9660.49,8184.01
+2025-05-01,R&D,Benefits,10001.65,9750.02
+2025-05-01,R&D,Contractors,10166.03,9931.16
+2025-05-01,R&D,Equipment,7034.71,6855.19
+2025-05-01,R&D,Salaries,39949.41,40862.86
+2025-05-01,R&D,Software Licenses,8603.56,8681.46
+2025-06-01,Business Dev,Conferences,4845.52,5001.6
+2025-06-01,Business Dev,Marketing,9443.56,9820.09
+2025-06-01,Business Dev,Salaries,29137.75,27906.59
+2025-06-01,Business Dev,Travel,3141.71,3247.15
+2025-06-01,Finance,Audit & Compliance,3695.09,3766.32
+2025-06-01,Finance,Benefits,4837.36,4823.48
+2025-06-01,Finance,Salaries,16373.4,16851.24
+2025-06-01,Finance,Software Licenses,4066.85,4131.11
+2025-06-01,HR,Benefits,6790.17,6823.17
+2025-06-01,HR,Recruiting,3543.37,3751.47
+2025-06-01,HR,Salaries,23048.32,22294.91
+2025-06-01,HR,Training,2248.12,2179.31
+2025-06-01,IT,Cloud Infrastructure,18161.39,17566.34
+2025-06-01,IT,Consulting,9940.3,8184.36
+2025-06-01,IT,Equipment,9032.42,8008.42
+2025-06-01,IT,Salaries,47550.76,40595.52
+2025-06-01,IT,Software Licenses,11180.38,9744.63
+2025-06-01,Operations,Benefits,23416.1,22481.55
+2025-06-01,Operations,Equipment,15281.99,13394.55
+2025-06-01,Operations,Facilities,12510.14,10633.03
+2025-06-01,Operations,Salaries,88205.7,73669.71
+2025-06-01,Operations,Travel,8867.99,7420.65
+2025-06-01,R&D,Benefits,10652.83,10967.24
+2025-06-01,R&D,Contractors,9392.09,8865.59
+2025-06-01,R&D,Equipment,6821.46,6865.89
+2025-06-01,R&D,Salaries,39561.08,39494.77
+2025-06-01,R&D,Software Licenses,8198.76,8375.46
+2025-07-01,Business Dev,Conferences,4991.51,5562.35
+2025-07-01,Business Dev,Marketing,8988.9,8875.39
+2025-07-01,Business Dev,Salaries,29009.79,27472.25
+2025-07-01,Business Dev,Travel,3223.45,3271.79
+2025-07-01,Finance,Audit & Compliance,3582.82,3629.09
+2025-07-01,Finance,Benefits,4909.36,4809.52
+2025-07-01,Finance,Salaries,16558.41,17222.34
+2025-07-01,Finance,Software Licenses,3585.37,3896.44
+2025-07-01,HR,Benefits,6691.94,6805.7
+2025-07-01,HR,Recruiting,3412.3,3583.56
+2025-07-01,HR,Salaries,23328.92,20914.32
+2025-07-01,HR,Training,1973.63,1947.49
+2025-07-01,IT,Cloud Infrastructure,18827.37,16765.94
+2025-07-01,IT,Consulting,8803.23,7616.55
+2025-07-01,IT,Equipment,8761.74,7371.04
+2025-07-01,IT,Salaries,54777.13,48063.09
+2025-07-01,IT,Software Licenses,10915.05,9223.91
+2025-07-01,Operations,Benefits,23222.92,21570.45
+2025-07-01,Operations,Equipment,15177.37,13501.31
+2025-07-01,Operations,Facilities,12024.53,10526.66
+2025-07-01,Operations,Salaries,84882.41,72741.75
+2025-07-01,Operations,Travel,9334.05,7486.82
+2025-07-01,R&D,Benefits,10971.49,11059.07
+2025-07-01,R&D,Contractors,10506.93,9810.79
+2025-07-01,R&D,Equipment,7422.78,7518.52
+2025-07-01,R&D,Salaries,38713.61,38137.09
+2025-07-01,R&D,Software Licenses,8378.32,8043.94
+2025-08-01,Business Dev,Conferences,5355.95,5716.88
+2025-08-01,Business Dev,Marketing,9391.18,9655.14
+2025-08-01,Business Dev,Salaries,28038.83,27465.73
+2025-08-01,Business Dev,Travel,3060.49,2993.28
+2025-08-01,Finance,Audit & Compliance,3621.86,3743.1
+2025-08-01,Finance,Benefits,4940.85,4884.01
+2025-08-01,Finance,Salaries,16991.2,18766.12
+2025-08-01,Finance,Software Licenses,4024.9,4233.1
+2025-08-01,HR,Benefits,6669.13,6789.39
+2025-08-01,HR,Recruiting,3607.21,3799.29
+2025-08-01,HR,Salaries,22731.03,21019.78
+2025-08-01,HR,Training,2254.12,2202.36
+2025-08-01,IT,Cloud Infrastructure,17211.03,15537.39
+2025-08-01,IT,Consulting,9812.97,8489.93
+2025-08-01,IT,Equipment,10087.69,8650.72
+2025-08-01,IT,Salaries,49414.18,43089.04
+2025-08-01,IT,Software Licenses,11098.25,9209.54
+2025-08-01,Operations,Benefits,25160.34,25083.17
+2025-08-01,Operations,Equipment,14867.94,13649.48
+2025-08-01,Operations,Facilities,12977.36,11038.19
+2025-08-01,Operations,Salaries,92507.52,80911.98
+2025-08-01,Operations,Travel,8813.07,7866.75
+2025-08-01,R&D,Benefits,9895.77,10123.2
+2025-08-01,R&D,Contractors,10245.79,9566.03
+2025-08-01,R&D,Equipment,6510.04,6710.95
+2025-08-01,R&D,Salaries,40288.68,39484.49
+2025-08-01,R&D,Software Licenses,8074.0,8059.1
+2025-09-01,Business Dev,Conferences,4680.64,5166.2
+2025-09-01,Business Dev,Marketing,9427.39,9848.5
+2025-09-01,Business Dev,Salaries,28340.45,26511.51
+2025-09-01,Business Dev,Travel,2908.09,2915.78
+2025-09-01,Finance,Audit & Compliance,4114.86,4004.4
+2025-09-01,Finance,Benefits,5057.65,4674.71
+2025-09-01,Finance,Salaries,16732.38,18422.07
+2025-09-01,Finance,Software Licenses,3781.62,3860.65
+2025-09-01,HR,Benefits,5873.51,6183.2
+2025-09-01,HR,Recruiting,3617.68,3771.89
+2025-09-01,HR,Salaries,22045.08,20598.94
+2025-09-01,HR,Training,2220.2,2139.11
+2025-09-01,IT,Cloud Infrastructure,19792.31,17672.96
+2025-09-01,IT,Consulting,9046.0,8213.77
+2025-09-01,IT,Equipment,8998.52,7998.9
+2025-09-01,IT,Salaries,54273.13,45016.7
+2025-09-01,IT,Software Licenses,11867.33,9818.0
+2025-09-01,Operations,Benefits,25796.23,25440.22
+2025-09-01,Operations,Equipment,17115.74,15265.42
+2025-09-01,Operations,Facilities,12177.12,10229.09
+2025-09-01,Operations,Salaries,80947.35,68108.81
+2025-09-01,Operations,Travel,8994.66,7402.44
+2025-09-01,R&D,Benefits,10634.26,10291.36
+2025-09-01,R&D,Contractors,10248.7,10072.39
+2025-09-01,R&D,Equipment,7166.23,7130.2
+2025-09-01,R&D,Salaries,39083.13,38747.71
+2025-09-01,R&D,Software Licenses,8333.28,7875.19
+2025-10-01,Business Dev,Conferences,4815.22,5267.55
+2025-10-01,Business Dev,Marketing,8958.54,9593.97
+2025-10-01,Business Dev,Salaries,25674.98,25078.89
+2025-10-01,Business Dev,Travel,3033.13,3182.13
+2025-10-01,Finance,Audit & Compliance,4018.65,3896.8
+2025-10-01,Finance,Benefits,4445.64,4316.15
+2025-10-01,Finance,Salaries,16976.32,17451.98
+2025-10-01,Finance,Software Licenses,3524.15,3732.16
+2025-10-01,HR,Benefits,6756.29,6948.16
+2025-10-01,HR,Recruiting,3466.5,3813.38
+2025-10-01,HR,Salaries,21464.23,20589.14
+2025-10-01,HR,Training,2182.93,2100.1
+2025-10-01,IT,Cloud Infrastructure,18628.56,17047.19
+2025-10-01,IT,Consulting,9043.52,7420.24
+2025-10-01,IT,Equipment,9271.31,7517.15
+2025-10-01,IT,Salaries,52125.71,43741.24
+2025-10-01,IT,Software Licenses,11795.45,9883.97
+2025-10-01,Operations,Benefits,24143.85,23949.45
+2025-10-01,Operations,Equipment,16516.29,15628.08
+2025-10-01,Operations,Facilities,12931.15,10828.85
+2025-10-01,Operations,Salaries,82804.87,74602.32
+2025-10-01,Operations,Travel,9220.51,7861.02
+2025-10-01,R&D,Benefits,10814.0,10547.56
+2025-10-01,R&D,Contractors,9651.79,9272.52
+2025-10-01,R&D,Equipment,6782.39,6760.67
+2025-10-01,R&D,Salaries,39308.47,38487.82
+2025-10-01,R&D,Software Licenses,8226.75,8537.77
+2025-11-01,Business Dev,Conferences,5055.71,
+2025-11-01,Business Dev,Marketing,8565.44,
+2025-11-01,Business Dev,Salaries,27097.9,
+2025-11-01,Business Dev,Travel,2811.7,
+2025-11-01,Finance,Audit & Compliance,3710.54,
+2025-11-01,Finance,Benefits,4801.65,
+2025-11-01,Finance,Salaries,18885.4,
+2025-11-01,Finance,Software Licenses,3672.8,
+2025-11-01,HR,Benefits,6311.62,
+2025-11-01,HR,Recruiting,3472.61,
+2025-11-01,HR,Salaries,22000.53,
+2025-11-01,HR,Training,2139.03,
+2025-11-01,IT,Cloud Infrastructure,18227.96,
+2025-11-01,IT,Consulting,8676.02,
+2025-11-01,IT,Equipment,8641.89,
+2025-11-01,IT,Salaries,49298.57,
+2025-11-01,IT,Software Licenses,10862.09,
+2025-11-01,Operations,Benefits,22537.74,
+2025-11-01,Operations,Equipment,14791.17,
+2025-11-01,Operations,Facilities,12478.67,
+2025-11-01,Operations,Salaries,92115.49,
+2025-11-01,Operations,Travel,8927.12,
+2025-11-01,R&D,Benefits,10288.56,
+2025-11-01,R&D,Contractors,9659.8,
+2025-11-01,R&D,Equipment,7292.92,
+2025-11-01,R&D,Salaries,35972.82,
+2025-11-01,R&D,Software Licenses,8453.01,
+2025-12-01,Business Dev,Conferences,5431.28,
+2025-12-01,Business Dev,Marketing,9769.61,
+2025-12-01,Business Dev,Salaries,27493.24,
+2025-12-01,Business Dev,Travel,2960.72,
+2025-12-01,Finance,Audit & Compliance,3586.65,
+2025-12-01,Finance,Benefits,4803.3,
+2025-12-01,Finance,Salaries,16399.2,
+2025-12-01,Finance,Software Licenses,3615.95,
+2025-12-01,HR,Benefits,6434.65,
+2025-12-01,HR,Recruiting,3306.19,
+2025-12-01,HR,Salaries,21719.11,
+2025-12-01,HR,Training,2026.52,
+2025-12-01,IT,Cloud Infrastructure,19594.12,
+2025-12-01,IT,Consulting,8643.6,
+2025-12-01,IT,Equipment,8985.46,
+2025-12-01,IT,Salaries,49653.0,
+2025-12-01,IT,Software Licenses,11014.6,
+2025-12-01,Operations,Benefits,24613.36,
+2025-12-01,Operations,Equipment,15042.75,
+2025-12-01,Operations,Facilities,13231.03,
+2025-12-01,Operations,Salaries,92063.64,
+2025-12-01,Operations,Travel,9528.34,
+2025-12-01,R&D,Benefits,10530.47,
+2025-12-01,R&D,Contractors,10520.01,
+2025-12-01,R&D,Equipment,6816.36,
+2025-12-01,R&D,Salaries,39692.69,
+2025-12-01,R&D,Software Licenses,8739.38,
