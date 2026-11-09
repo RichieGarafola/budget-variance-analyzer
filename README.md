@@ -29,11 +29,11 @@ variance     = budgeted − actual      (positive = under budget)
 variance_pct = variance / budgeted
 ```
 
-**Classify** — Each `variance_pct` is mapped to a status using configurable thresholds:
+**Classify** — Each `variance_pct` is mapped to a status using fixed thresholds (`WARN_THRESHOLD = 0.05` and `CRITICAL_THRESHOLD = 0.15`, module-level constants in `src/variance_engine.py`; they are intentionally not adjustable in the UI, see [ED-2](docs/ENGINEERING_DECISIONS.md)):
 
 | Status | Condition | Meaning |
 |---|---|---|
-| FAVORABLE | variance_pct > +5% | Spending is at least 5% under budget |
+| FAVORABLE | variance_pct > +5% | Spending is more than 5% under budget |
 | ON BUDGET | −5% ≤ variance_pct ≤ +5% | Within acceptable tolerance |
 | WARNING | −15% ≤ variance_pct < −5% | Moderately over budget |
 | CRITICAL | variance_pct < −15% | Significantly over budget |
