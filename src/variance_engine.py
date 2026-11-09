@@ -8,7 +8,7 @@ Convention (expense budgets):
 Status thresholds (applied to variance_pct):
   FAVORABLE   variance_pct  >  0.05   (>5% under budget)
   ON BUDGET   |variance_pct| <= 0.05
-  WARNING     -0.15 < variance_pct < -0.05   (5–15% over budget)
+  WARNING     -0.15 <= variance_pct < -0.05  (5–15% over budget)
   CRITICAL    variance_pct  < -0.15   (>15% over budget)
 """
 
